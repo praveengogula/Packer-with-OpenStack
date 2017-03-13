@@ -1,3 +1,3 @@
 packer;
-packer validate ubuntujava.json;
-packer build ubuntujava.json;
+packer validate ubuntujavaopenjdktomcatusingpacker.json;
+packer build ubuntujavaopenjdktomcatusingpacker.json;
