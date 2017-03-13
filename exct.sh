@@ -1,4 +1,4 @@
-chmod a+rwx exct.sh;
+chmod a+rwx /home/miracle/.jenkins/test/exct.sh;
 chmod a+rwx ubuntujavaopenjdktomcatusingpacker.json;
 packer;
 packer validate ubuntujavaopenjdktomcatusingpacker.json;
