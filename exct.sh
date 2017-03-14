@@ -1,3 +1,3 @@
 packer;
-packer validate ubuntujavaopenjdktomcatusingpacker.json;
-packer build ubuntujavaopenjdktomcatusingpacker.json;
+packer validate /home/miracle/.jenkins/workspace/test/ubuntujavaopenjdktomcatusingpacker.json;
+packer build /home/miracle/.jenkins/workspace/test/ubuntujavaopenjdktomcatusingpacker.json;
