@@ -9,7 +9,7 @@
   "password": "MiracleIT",
   "region": "RegionOne",
   "ssh_username": "ubuntu",
-  "image_name": "UBUNTU 14.04 JAVA TOMCAT Server PACKER {{timestamp}}",
+  "image_name": "UBUNTU 14.04 JAVA TOMCAT Server PACKER {{isotime \"2006-01-02\"}}",
   "source_image": "913ef163-e2aa-4161-85d4-16a9924abfa1",
   "flavor": "m1.small",
   "networks": ["6e4c7854-a817-4022-b5c5-20d72373f469"],
